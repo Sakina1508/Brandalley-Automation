@@ -14,4 +14,5 @@ import static org.junit.runners.Suite.*;
 })
 
 public class BrandalleySuite {
+
 }
